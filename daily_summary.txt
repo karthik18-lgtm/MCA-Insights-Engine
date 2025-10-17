@@ -1,0 +1,23 @@
+Daily MCA Summary Report - 2025-10-17 11:32:45
+Total Companies: 1106091
+States Covered: 5
+Distinct Industries: 20
+Total Authorized Capital: 72167335945686.62
+Total Paidup Capital: 38047012693614.7
+Company Status Counts:
+  Active: 701033
+  Strike Off: 350675
+  Amalgamated: 15834
+  Converted to LLP: 12904
+  Under process of striking off: 9084
+  Dissolved (Liquidated): 6183
+  Under Liquidation: 4168
+  Inactive for e-filing: 3723
+  Under CIRP: 976
+  Dormant under section 455: 780
+  Dissolved under section 59(8): 339
+  Strike Off-AwaitingPublication: 158
+  Dissolved under section 54: 141
+  Dissolved: 87
+  Inactive: 4
+  Not available for efiling: 2

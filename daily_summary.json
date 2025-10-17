@@ -1,0 +1,26 @@
+{
+    "summary_date": "2025-10-17 11:32:45",
+    "total_companies": 1106091,
+    "states_covered": 5,
+    "distinct_industries": 20,
+    "total_authorized_capital": 72167335945686.62,
+    "total_paidup_capital": 38047012693614.7,
+    "status_counts": {
+        "Active": 701033,
+        "Strike Off": 350675,
+        "Amalgamated": 15834,
+        "Converted to LLP": 12904,
+        "Under process of striking off": 9084,
+        "Dissolved (Liquidated)": 6183,
+        "Under Liquidation": 4168,
+        "Inactive for e-filing": 3723,
+        "Under CIRP": 976,
+        "Dormant under section 455": 780,
+        "Dissolved under section 59(8)": 339,
+        "Strike Off-AwaitingPublication": 158,
+        "Dissolved under section 54": 141,
+        "Dissolved": 87,
+        "Inactive": 4,
+        "Not available for efiling": 2
+    }
+}
